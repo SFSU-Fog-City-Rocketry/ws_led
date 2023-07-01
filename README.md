@@ -1,3 +1,7 @@
+# WebSocket LED
+
+This repository is to run the frontend client and websocket server for changing pin modes on an arduino.
+
 ## Deployment
 
 To deploy the websocket project run
